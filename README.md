@@ -86,8 +86,8 @@ The frontend application will run on port 5173 by default.
 ### Backend Configuration
 - Server Port: 3000
 - WebSocket Gateway Port: 3000
-- Minimum Players Required: 2
-- Maximum Players Allowed: 4
+- Minimum Players Required: 4
+- Maximum Players Allowed: 8 
 - Number of Rounds: 3
 - Round Duration: 60 seconds
 
