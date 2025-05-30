@@ -4,7 +4,7 @@ A real-time multiplayer game backend built with NestJS and Socket.IO, supporting
 
 ## Live Demo
 
-You can play the game at: [Multi-Round Game](https://vercel.com/asrat001s-projects/multi-round-front-end)
+You can play the game at: [Multi-Round Game](https://multi-round-front-end.vercel.app/)
 
 ## Features
 
